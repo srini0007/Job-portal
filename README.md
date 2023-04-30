@@ -10,7 +10,7 @@ Admin account has access to
 1. Add job Post
 2. Rearrange using drag and drop method
 3. Can archive a specific Job Post
-4. Admin can see the intrested candidates for the specific Job Post\n
+4. Admin can see the intrested candidates for the specific Job Post
   4.1 - Intrest field is available once a Normal User has applied for the Job Post
   
 Normal user account should be created in SignUp
