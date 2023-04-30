@@ -1,7 +1,7 @@
 Project Name : Job Portal
 
 Admin login details:
-username : admin 
+username : admin,
 password : 123
 
 Username is not case-sensitive
